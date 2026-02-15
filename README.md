@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd year B.Tech (IOT) student at Devi Ahilya University, Indore M.P.<br>Currently working on hardware-based projects and PCB design.
+3rd year B.Tech (IOT) student at Devi Ahilya University, Indore M.P.<br>Currently working on hardware-based projects and PCB designing.
 
 
 ## 🌐 Socials:
